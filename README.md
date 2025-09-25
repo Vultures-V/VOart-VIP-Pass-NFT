@@ -23,3 +23,9 @@ To connect to the QL1 chain, add the following details to your MetaMask wallet:
 - **Chain ID:** 766
 - **Block Explorer:** https://scan.qom.one
 - **Symbol:** QOM
+
+# VoArt VIP Pass NFT
+The VoArt VIP Pass NFTs form the foundation of a low-fee, community-driven marketplace on the QL1 blockchain. This creation blends ancient art with modern technology, aiming to offer a unique experience for art lovers and collectors.
+
+## Marketplace Overview
+The VoArt Marketplace is designed to be a decentralized platform on the QL1 blockchain, enabling seamless trading of NFTs with minimal fees. It aims to empower artists and collectors by providing a secure, transparent, and community-focused environment. Future updates will include advanced features like auctions and exclusive drops.
