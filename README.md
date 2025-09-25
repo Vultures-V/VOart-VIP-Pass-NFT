@@ -7,3 +7,19 @@ QL1  101 piece + 1 GIF VoArt VIP Pass NFT  (Mythical). Claim Page:
 - **Assets:** /assets/ (1 GIF)
 - **Metadata:** /metadata/
 - **Rarity:** Mythical
+
+## Development Status
+- Currently in beta phase
+- Future plans: Additional features and community events.
+
+## Get Involved!
+- Support by claiming an NFT.
+- Share your ideas on [X profile](https://x.com/VVOART) (@VulturesV).
+- Join the community: [Telegram Channel](https://t.me/VulturesVLT).
+
+## QL1 Chain Information (For MetaMask)
+To connect to the QL1 chain, add the following details to your MetaMask wallet:
+- **RPC URL:** https://rpc.qom.one
+- **Chain ID:** 766
+- **Block Explorer:** https://scan.qom.one
+- **Symbol:** QOM
