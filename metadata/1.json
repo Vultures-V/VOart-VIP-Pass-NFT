@@ -1,0 +1,14 @@
+{
+  "name": "VoArt VIP Pass",
+  "description": "The VOart NFT captures the essence and vision of our groundbreaking marketplace on the QL1 blockchain. This special, one-time release consists of just 100 unique NFTs, each representing Nekhbet's eternal and legendary wings. Each NFT represents a fusion of art, technology, and decentralization, offering collectors a unique and unparalleled experience in the digital world",
+  "animation_url": "assets/voart-vip-pass.gif",
+  "attributes": [
+    { "trait_type": "Background", "value": "Carrion Wing" },
+    { "trait_type": "View", "value": "Deadly" },
+    { "trait_type": "Symbol", "value": "VOart Shine" },
+    { "trait_type": "Animation", "value": "Smoky Wing Flapping" },
+    { "trait_type": "Aura", "value": "Protector of Nekhbet" },
+    { "trait_type": "Purpose", "value": "Resurrection" },
+    { "trait_type": "Rarity", "value": "Mythical" }
+  ]
+}
