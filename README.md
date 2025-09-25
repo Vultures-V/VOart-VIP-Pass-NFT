@@ -14,7 +14,7 @@ QL1  101 piece + 1 GIF VoArt VIP Pass NFT  (Mythical). Claim Page:
 
 ## Get Involved!
 - Support by claiming an NFT.
-- Share your ideas on [X profile](https://x.com/VVOART) (@VulturesV).
+- Share your ideas on [X profile](https://x.com/VVOART).
 - Join the community: [Telegram Channel](https://t.me/VulturesVLT).
 
 ## QL1 Chain Information (For MetaMask)
